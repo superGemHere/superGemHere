@@ -1,5 +1,7 @@
 # Hello there, It's superGemHere.
 
+**`Digital Craftsman (developer/Filmmaker/Creator)**
+
 <div style="display: flex; justify-content:center; align-items: center; width=100%">
 
 <img src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-selft:center;"/>
