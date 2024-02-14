@@ -1,6 +1,6 @@
 # Hello there, It's superGemHere.
 
-**`Digital Craftsman (developer/Filmmaker/Creator)**
+**`Digital Craftsman (developer/Filmmaker/Creator)`**
 
 <div style="display: flex; justify-content:center; align-items: center; width=100%">
 
