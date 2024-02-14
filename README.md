@@ -1,8 +1,9 @@
 # Hello there, It's superGemHere.
 
-<div style="display: flex; justify-content:center; align-items: center;">
+<div style="display: flex; justify-content:center; align-items: center; width=100%">
 
-![coding-person-gif](https://github.com/superGemHere/superGemHere/blob/main/giphy.gif)
+<img src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF"/>
+
 </div>  
 <!--
 **superGemHere/superGemHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
