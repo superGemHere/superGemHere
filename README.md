@@ -11,7 +11,7 @@
 💻 I thrive on turning innovative ideas into robust, scalable, and user-friendly applications. My journey in the world of coding began with a love for problem-solving, and it has evolved into a deep commitment to crafting seamless web experiences.
 
 ### Languages & Tools
-<img align="left" alt="react-icon" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="react-icon" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 
 <!--
