@@ -3,7 +3,7 @@
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
 
 <div style="display: flex; justify-content:center; align-items: center; width=100%">
-<img src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-selft:center;"/>
+<img src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </div>  
 
 👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. 🚀 <br>
