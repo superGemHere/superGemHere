@@ -1,6 +1,6 @@
 # It's superGem.
 ## Hello there.🖐  
-<img href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<![coding gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u.gif)
 <!--
 **superGemHere/superGemHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
