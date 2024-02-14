@@ -1,4 +1,5 @@
-# 🖐 superGemHere
+# It's superGem.
+## Hello there.🖐  
 
 <!--
 **superGemHere/superGemHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
