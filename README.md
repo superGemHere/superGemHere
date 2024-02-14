@@ -1,6 +1,6 @@
 # Hello there, It's superGemHere.
 
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![coding-person-gif](https://github.com/superGemHere/superGemHere/blob/main/giphy.gif)
 <!--
 **superGemHere/superGemHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
