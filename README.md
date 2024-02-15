@@ -1,12 +1,20 @@
 # 🎯 Hello there, It's **Dzhem Syuleyman** a.k.a **superGem**
 
+<p align=center>
+
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
+</p>
 
 <p align=center>
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
 
-> **I’m not a superhero, but I code like one.**
+<p>
+
+> **I’m not a superhero, but I am superGem.**
+>> **Why superGem, well sounds cool**
+>>> **Also my name pronounces like gem**
+<p>
 
 
 <p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p>
