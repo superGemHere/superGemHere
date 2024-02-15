@@ -12,7 +12,9 @@
 <p align=center>
 
 > **I’m not a superhero, but I am superGem.**
+
 >> **Why superGem, well sounds cool**
+
 > **Also my name pronounces like gem**
 <p>
 
