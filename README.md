@@ -14,7 +14,7 @@
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
 
-<p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p>
+<p align="center">I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.<br> (MongoDB, Express.js, React, Node.js)  </p>
 
 <details>
 <summary><h3>My mission</h3></b></summary>
