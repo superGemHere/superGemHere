@@ -9,11 +9,11 @@
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
 
-<p>
+<p align=center>
 
 > **I’m not a superhero, but I am superGem.**
 >> **Why superGem, well sounds cool**
->>> **Also my name pronounces like gem**
+> **Also my name pronounces like gem**
 <p>
 
 
