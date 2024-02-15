@@ -2,8 +2,6 @@
 
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
 
-graywhite
-
 > I’m not a superhero, but I code like one.
 
 <p align=center>
