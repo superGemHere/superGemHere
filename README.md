@@ -39,7 +39,7 @@ graywhite
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superGemHere&show_icons=true&theme=graywhite) -->
 <div>
 <img height=100% width=400 src="https://github-readme-stats.vercel.app/api?username=superGemHere&show_icons=true&theme=graywhite" />
-<img height=100% width=auto src="https://streak-stats.demolab.com/?user=superGemHere&theme=graywhite" />
+<img height=105% width=400 src="https://streak-stats.demolab.com/?user=superGemHere&theme=graywhite" />
 </div>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=superGemHere&theme=graywhite)](https://git.io/streak-stats) -->
 
