@@ -1,4 +1,4 @@
-# 🎯 Hello there, It's **Dzhem Syuleyman** a.k.a **superGem**
+# 🎯 **Dzhem Syuleyman** a.k.a **superGem**
 
 <p align=center>
 
