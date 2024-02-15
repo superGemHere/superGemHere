@@ -1,15 +1,14 @@
 # superGem / Dzhem Syuleyman 
 
-<p align=center>
-
-**`Digital Craftsman (developer/Filmmaker/Creator)`**
-</p>
-
 <p align="center">
 
 > **I’m not a superhero, but I am superGem. <br>Why superGem? Why not?<br>Also my name pronounces like gem**
 <p>
 
+<p align=center>
+
+**`Digital Craftsman (developer/Filmmaker/Creator)`**
+</p>
 
 <p align=center>
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
