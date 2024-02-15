@@ -1,4 +1,4 @@
-# 🎯 Hello there, It's Dzhem Syuleyman a.k.a superGem
+# 🎯 Hello there, It's **Dzhem Syuleyman** a.k.a **superGem**
 
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
 
@@ -6,7 +6,7 @@
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
 
-> I’m not a superhero, but I code like one.
+> **I’m not a superhero, but I code like one.**
 
 
 <p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p>
