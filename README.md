@@ -37,7 +37,7 @@ graywhite
 ##
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superGemHere&show_icons=true&theme=graywhite) -->
-<div>
+<div style=display:flex;align-items:center;justify-content:center;>
 <img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=superGemHere&show_icons=true&theme=graywhite" />
 <img height=315 width=400 src="https://streak-stats.demolab.com/?user=superGemHere&theme=graywhite" />
 </div>
