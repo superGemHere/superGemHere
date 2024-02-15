@@ -1,4 +1,4 @@
-# **superGem / Dzhem Syuleyman**)
+# **superGem / Dzhem Syuleyman
 
 <p align=center>
 
