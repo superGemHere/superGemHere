@@ -1,4 +1,4 @@
-# 🎯 **Dzhem Syuleyman** a.k.a **superGem**
+# **superGem / Dzhem Syuleyman**)
 
 <p align=center>
 
