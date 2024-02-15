@@ -11,11 +11,7 @@
 
 <p align=center>
 
-> **I’m not a superhero, but I am superGem.**
-
->> **Why superGem? Why not?**
-
-> **Also my name pronounces like gem**
+> **I’m not a superhero, but I am superGem. <br>Why superGem? Why not?<br>Also my name pronounces like gem**
 <p>
 
 
