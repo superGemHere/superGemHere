@@ -5,14 +5,16 @@
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
 </p>
 
+<p align="center">
+
+> **I’m not a superhero, but I am superGem. <br>Why superGem? Why not?<br>Also my name pronounces like gem**
+<p>
+
+
 <p align=center>
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
 
-<p align=center>
-
-> **I’m not a superhero, but I am superGem. <br>Why superGem? Why not?<br>Also my name pronounces like gem**
-<p>
 
 
 <p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p>
