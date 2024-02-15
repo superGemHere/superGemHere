@@ -6,7 +6,7 @@
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
 
-<p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. 🚀 </p>
+<p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN <br> (MongoDB, Express.js, React, Node.js) stack. 🚀 </p>
 <p>🌐 In the vast realm of web development, I specialize in building dynamic and responsive applications using the MERN stack. From designing efficient databases with MongoDB, crafting robust server-side applications with Express.js and Node.js, to creating captivating user interfaces with React – I enjoy the entire spectrum of the development process. </p>
 <p>💻 I thrive on turning innovative ideas into robust, scalable, and user-friendly applications. My journey in the world of coding began with a love for problem-solving, and it has evolved into a deep commitment to crafting seamless web experiences. </p>
 
