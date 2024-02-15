@@ -1,4 +1,4 @@
-# 🎯 Hello there, It's superGemHere.
+# 🎯 Hello there, It's Dzhem Syuleyman a.k.a superGem
 
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
 
