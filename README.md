@@ -2,11 +2,14 @@
 
 **`Digital Craftsman (developer/Filmmaker/Creator)`**
 
+graywhite
+
 > I’m not a superhero, but I code like one.
 
 <p align=center>
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
 </p>
+
 
 <p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p>
 <p align="center">🌐 In the vast realm of web development, I specialize in building dynamic and responsive applications using the MERN stack. From designing efficient databases with MongoDB, crafting robust server-side applications with Express.js and Node.js, to creating captivating user interfaces with React – I enjoy the entire spectrum of the development process. </p>
@@ -33,7 +36,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superGemHere&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superGemHere&show_icons=true&theme=graywhite)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=graywhite)](https://git.io/streak-stats)
+
 <!--
 **superGemHere/superGemHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
