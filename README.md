@@ -32,7 +32,9 @@
 <details align="center">
 <summary><h3>How to reach me</h3></b></summary>
 <p align="center">E-mail: supergemhere@gmail.com 📧</p>
-<p align="center">Linked-in: <a href="https://www.linkedin.com/in/dzhem-syuleyman-1891602a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrTNPmKQQQ%2B223smQjPSO8g%3D%3D" target="_blank">supergemhere</a> 🔗</p>
+<!-- <p align="center">Linked-in: <a href="https://www.linkedin.com/in/dzhem-syuleyman-1891602a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrTNPmKQQQ%2B223smQjPSO8g%3D%3D" target="_blank">supergemhere</a> 🔗</p> -->
+
+[go](https://www.linkedin.com/in/dzhem-syuleyman-1891602a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrTNPmKQQQ%2B223smQjPSO8g%3D%3D){:target="_blank" rel="noopener"}
 </details>
 
 <h3 align="center">Languages & Tools</h3>
