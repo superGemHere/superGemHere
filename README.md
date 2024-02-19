@@ -47,9 +47,14 @@
 
 <details align="center">
 <summary><h3>My mission</h3></b></summary>
-<!-- <p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p> -->
 <p align="center">🌐 In the vast realm of web development, I specialize in building dynamic and responsive applications using the MERN stack. From designing efficient databases with MongoDB, crafting robust server-side applications with Express.js and Node.js, to creating captivating user interfaces with React – I enjoy the entire spectrum of the development process. </p>
 <p align="center">💻 I thrive on turning innovative ideas into robust, scalable, and user-friendly applications. My journey in the world of coding began with a love for problem-solving, and it has evolved into a deep commitment to crafting seamless web experiences. </p>
+</details>
+
+<details align="center">
+<summary><h3>How to reach me</h3></b></summary>
+<p align="center">E-mail: supergemhere@gmail.com 📧</p>
+<p align="center">Linked-in: <a href="https://www.linkedin.com/in/dzhem-syuleyman-1891602a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrTNPmKQQQ%2B223smQjPSO8g%3D%3D">supergemhere</a> 🔗</p>
 </details>
            
 #
