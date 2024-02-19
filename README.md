@@ -11,9 +11,14 @@
 </p>
 
 <details align="center">
-<summary><h3>My mission</h3></b></summary>
-<p align="center">🌐 In the vast realm of web development, I specialize in building dynamic and responsive applications using the MERN stack. From designing efficient databases with MongoDB, crafting robust server-side applications with Express.js and Node.js, to creating captivating user interfaces with React – I enjoy the entire spectrum of the development process. </p>
-<p align="center">💻 I thrive on turning innovative ideas into robust, scalable, and user-friendly applications. My journey in the world of coding began with a love for problem-solving, and it has evolved into a deep commitment to crafting seamless web experiences. </p>
+<summary><h3>About me</h3></b></summary>
+<p align="center">Hello there, I'm Dzhem Syuleyman also known as superGem, but you can call me Gem.</p>
+<p align="center">I'm 22 y/o and a passionate Web Developer.</p>
+<p align="center">You know as a kid you got asked alot of questions like what do you want to become when you grow up, and my answer back then wasn't a Web Developer</p>
+<p align="center">But as soon as you grow you're starting to realize that you have to do something with your life.. and then it hit me.</p>
+<p align="center">I said I'm gonna be a developer.</p>
+<p align="center">But why Web Developer, well probably It's because I love creating things from scratch, making things out of a thin air and making them beautiful.</p>
+<p align="center">So for me Web Development is an art and science at the same time.</p>
 </details>
 
 <p align=center>
