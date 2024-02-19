@@ -26,7 +26,7 @@
 ### Languages & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ps,ai,pr" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,ps,ai,pr" />
 </p>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ps,ai,pr)](https://skillicons.dev) -->
