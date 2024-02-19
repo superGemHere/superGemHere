@@ -23,7 +23,7 @@
 <p align="center">💻 I thrive on turning innovative ideas into robust, scalable, and user-friendly applications. My journey in the world of coding began with a love for problem-solving, and it has evolved into a deep commitment to crafting seamless web experiences. </p>
 </details>
 
-### Languages & Tools
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,postman,ps,ai,pr" />
