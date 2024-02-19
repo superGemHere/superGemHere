@@ -45,7 +45,7 @@
            -->
 </p>
 
-<details>
+<details align="center">
 <summary><h3>My mission</h3></b></summary>
 <!-- <p align="center">👋 Hello World! I'm a passionate software engineer and full-stack developer with a focus on the MERN stack.🚀 <br> (MongoDB, Express.js, React, Node.js)  </p> -->
 <p align="center">🌐 In the vast realm of web development, I specialize in building dynamic and responsive applications using the MERN stack. From designing efficient databases with MongoDB, crafting robust server-side applications with Express.js and Node.js, to creating captivating user interfaces with React – I enjoy the entire spectrum of the development process. </p>
