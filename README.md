@@ -25,7 +25,11 @@
 
 ### Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ps,ai,pr)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ps,ai,pr" />
+</p>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ps,ai,pr)](https://skillicons.dev) -->
 
 <p align="center"> 
 <!-- <img align="left" alt="mongoDB-icon" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
