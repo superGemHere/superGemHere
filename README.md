@@ -1,13 +1,13 @@
-# superGem / Dzhem Syuleyman 
+<h1 align="center"> superGem / Dzhem Syuleyman </h1>
 
-<p align="center">
+<!-- <p align="center">
 
 > **I’m not a superhero, but I am superGem. <br>Why superGem? Why not?<br>Also my name pronounces like gem**
-<p>
+<p> -->
 
 <p align=center>
 
-**`Digital Craftsman (developer/Filmmaker/Creator)`**
+**<p align="center">`Digital Craftsman (developer/Filmmaker/Creator)`</p>**
 </p>
 
 <p align=center>
