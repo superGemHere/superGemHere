@@ -10,7 +10,7 @@
 **<p align="center">`Digital Craftsman (developer/Filmmaker/Creator)`</p>**
 </p>
 
-<details align="center">
+<!-- <details align="center">
 <summary><h3>About me</h3></b></summary>
 <p align="center">Hello there, I'm Dzhem Syuleyman also known as superGem, but you can call me Gem.</p>
 <p align="center">I'm 22 y/o and a passionate Web Developer.</p>
@@ -19,7 +19,7 @@
 <p align="center">I said I'm gonna be a developer.</p>
 <p align="center">But why Web Developer, well probably It's because I love creating things from scratch, making things out of a thin air and making them beautiful.</p>
 <p align="center">So for me Web Development is an art and science at the same time.</p>
-</details>
+</details> -->
 
 <p align=center>
 <img align="center" src="https://github.com/superGemHere/superGemHere/blob/main/giphy.gif"  alt="Super Gem Here GIF" style="align-self:center;"/>
