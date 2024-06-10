@@ -1,4 +1,4 @@
-<h1 align="center"> superGem / Dzhem Syuleyman </h1>
+<h1 align="center">Dzhem Syuleyman </h1>
 
 <!-- <p align="center">
 
