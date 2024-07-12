@@ -38,7 +38,7 @@
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,express,react,postman,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,mongodb,postgres,express,postman,ps,pr" />
 </p>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ps,ai,pr)](https://skillicons.dev) -->
