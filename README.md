@@ -7,7 +7,8 @@
 
 <p align=center>
 
-**<p align="center">`Digital Craftsman (developer/Filmmaker/Creator)`</p>**
+<!-- **<p align="center">`Digital Craftsman (developer/Filmmaker/Creator)`</p>** -->
+**<p align="center">`Full-Stack Web & Mobile Developer`</p>**
 </p>
 
 <!-- <details align="center">
